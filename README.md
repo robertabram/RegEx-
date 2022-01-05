@@ -11,7 +11,7 @@
 
 \b      - Word Boundary
 \B      - Not a Word Boundary
-^       - Beginning of a String
+^       - Beginning of a String (NOT for any option we provided to find EX:([^a-zA-Z] everything besides this condition)
 $       - End of a String
 
 []      - Matches Characters in brackets
